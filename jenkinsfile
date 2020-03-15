@@ -3,7 +3,7 @@ pipeline {
          stages {
                  stage('One') {
                  steps {
-                     echo 'SRC2 Hi23456789, this is Zulaikha from edureka'
+                     echo 'Hi234, this is Zulaikha from edureka'
                  }
                  }
                  stage('Two') {
