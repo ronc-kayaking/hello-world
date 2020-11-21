@@ -4,9 +4,13 @@ pipeline {
                  stage('One') {
                  steps {
 
-                     echo 'Hi this is master branch test2
 
 
+
+
+
+
+                     echo newbranch1 
 
                  }
                  }
