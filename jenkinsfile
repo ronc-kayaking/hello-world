@@ -4,7 +4,7 @@ pipeline {
                  stage('One') {
                  steps {
 
-                     echo newbranch1 comm2
+                     echo newbranch1 comm2 what the fuck
                  }
                  }
                  stage('Two') {
