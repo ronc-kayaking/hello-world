@@ -4,7 +4,11 @@ pipeline {
                  stage('One') {
                  steps {
 
+
                      echo master commit1 commit2
+
+                     
+
                  }
                  }
                  stage('Two') {
