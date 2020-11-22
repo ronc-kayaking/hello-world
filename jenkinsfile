@@ -4,7 +4,7 @@ pipeline {
                  stage('One') {
                  steps {
 
-                     echo newbranch3 commit1
+                     echo newbranch3 commit1 commit2
                  }
                  }
                  stage('Two') {
